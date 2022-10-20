@@ -6,8 +6,6 @@
 
     public class ShellViewModel : Screen
     {
-        private string textInput;
-
         public string TextInput
         {
             get 
@@ -21,8 +19,6 @@
             }
         }
 
-        private string resultOutput;
-
         public string ResultOutput
         {
             get 
@@ -35,6 +31,10 @@
                 NotifyOfPropertyChange(() => ResultOutput);
             }
         }
+
+        private string textInput;
+
+        private string resultOutput;
 
         public bool CanCheckPalindrome(string textInput)
         {
