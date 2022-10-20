@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextCheckerBL.csproj",
-      "projectName": "TextCheckerBL",
-      "projectPath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextCheckerBL.csproj",
+      "projectUniqueName": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj",
+      "projectName": "TextChecker.BusinessLogic",
+      "projectPath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\obj\\",
       "projectStyle": "PackageReference",

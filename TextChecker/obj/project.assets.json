@@ -165,14 +165,14 @@
           "ref/netstandard1.3/_._": {}
         }
       },
-      "TextCheckerBL/1.0.0": {
+      "TextChecker.BusinessLogic/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/TextCheckerBL.dll": {}
+          "bin/placeholder/TextChecker.BusinessLogic.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TextCheckerBL.dll": {}
+          "bin/placeholder/TextChecker.BusinessLogic.dll": {}
         }
       }
     }
@@ -954,16 +954,16 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "TextCheckerBL/1.0.0": {
+    "TextChecker.BusinessLogic/1.0.0": {
       "type": "project",
-      "path": "../TextCheckerBL/TextCheckerBL.csproj",
-      "msbuildProject": "../TextCheckerBL/TextCheckerBL.csproj"
+      "path": "../TextCheckerBL/TextChecker.BusinessLogic.csproj",
+      "msbuildProject": "../TextCheckerBL/TextChecker.BusinessLogic.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
       "Caliburn.Micro >= 4.0.212",
-      "TextCheckerBL >= 1.0.0"
+      "TextChecker.BusinessLogic >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -993,8 +993,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextCheckerBL.csproj": {
-              "projectPath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextCheckerBL.csproj"
+            "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj": {
+              "projectPath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj"
             }
           }
         }

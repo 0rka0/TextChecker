@@ -6,11 +6,9 @@ D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\Tex
 D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\ref\TextChecker.dll
 D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\TextChecker.pdb
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\TextChecker.csproj.AssemblyReference.cache
-D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\MainWindow.g.cs
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\App.g.cs
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\TextChecker_MarkupCompile.cache
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\TextChecker_MarkupCompile.lref
-D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\MainWindow.baml
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\TextChecker.g.resources
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\TextChecker.GeneratedMSBuildEditorConfig.editorconfig
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\TextChecker.AssemblyInfoInputs.cache
@@ -21,3 +19,13 @@ D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\ref
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\TextChecker.pdb
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\TextChecker.genruntimeconfig.cache
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\Views\ShellView.g.cs
+D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\Caliburn.Micro.Platform.Core.dll
+D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\Caliburn.Micro.Platform.dll
+D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\Caliburn.Micro.Core.dll
+D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\App.baml
+D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\Views\ShellView.baml
+D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\TextChecker.csproj.CopyComplete
+D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\TextChecker.BusinessLogic.dll
+D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\TextChecker.BusinessLogic.pdb

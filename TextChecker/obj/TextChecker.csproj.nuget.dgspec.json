@@ -4,12 +4,12 @@
     "D:\\Applications\\JaroschHaas\\TextChecker\\TextChecker\\TextChecker.csproj": {}
   },
   "projects": {
-    "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextCheckerBL.csproj": {
+    "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextCheckerBL.csproj",
-        "projectName": "TextCheckerBL",
-        "projectPath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextCheckerBL.csproj",
+        "projectUniqueName": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj",
+        "projectName": "TextChecker.BusinessLogic",
+        "projectPath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\obj\\",
         "projectStyle": "PackageReference",
@@ -82,8 +82,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextCheckerBL.csproj": {
-                "projectPath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextCheckerBL.csproj"
+              "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj": {
+                "projectPath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj"
               }
             }
           }

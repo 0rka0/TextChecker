@@ -1,0 +1,12 @@
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\bin\Debug\net5.0\TextCheckerBL.deps.json
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\bin\Debug\net5.0\TextCheckerBL.dll
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\bin\Debug\net5.0\ref\TextCheckerBL.dll
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\bin\Debug\net5.0\TextCheckerBL.pdb
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\obj\Debug\net5.0\TextCheckerBL.csproj.AssemblyReference.cache
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\obj\Debug\net5.0\TextCheckerBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\obj\Debug\net5.0\TextCheckerBL.AssemblyInfoInputs.cache
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\obj\Debug\net5.0\TextCheckerBL.AssemblyInfo.cs
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\obj\Debug\net5.0\TextCheckerBL.csproj.CoreCompileInputs.cache
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\obj\Debug\net5.0\TextCheckerBL.dll
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\obj\Debug\net5.0\ref\TextCheckerBL.dll
+D:\Applications\JaroschHaas\TextChecker\TextCheckerBL\obj\Debug\net5.0\TextCheckerBL.pdb

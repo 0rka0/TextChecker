@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M9x6YkRxksTzO4O9moyb9KrVJBglrLLSn9t3ZISgzG/rtG0Vm2w2dgdsfJfa0BGINbD8uPiJiNhIg6PR51D1Vw==",
+  "dgSpecHash": "nBNJF5cmiARzf+amOM0Q0SPnkXo3+SsNA0GhhVgnShY1kdNppn18FSueTr6k8q/kN9YJ53fFf17Lqq9zy8IVVw==",
   "success": true,
-  "projectFilePath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextCheckerBL.csproj",
+  "projectFilePath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
