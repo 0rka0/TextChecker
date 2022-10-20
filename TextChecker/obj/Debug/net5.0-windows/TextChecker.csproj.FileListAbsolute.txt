@@ -26,6 +26,5 @@ D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\Cal
 D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\App.baml
 D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\Views\ShellView.baml
-D:\Applications\JaroschHaas\TextChecker\TextChecker\obj\Debug\net5.0-windows\TextChecker.csproj.CopyComplete
 D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\TextChecker.BusinessLogic.dll
 D:\Applications\JaroschHaas\TextChecker\TextChecker\bin\Debug\net5.0-windows\TextChecker.BusinessLogic.pdb

@@ -44,15 +44,15 @@
         public void CheckPalindrome(string textInput)
         {
             var handler = new CheckPalindromeHandler();
-            bool isPalindrome = handler.Check(TextInput);
+            bool isPalindrome = handler.Check(textInput);
 
             if (isPalindrome)
             {
-                ResultOutput = $"{TextInput} ist ein Palindrome.";
+                ResultOutput = $"\"{textInput}\" ist ein Palindrome.";
             }
             else
             {
-                ResultOutput = $"{TextInput} ist kein Palindrome.";
+                ResultOutput = $"\"{textInput}\" ist kein Palindrome.";
             }
 
             TextInput = String.Empty;
