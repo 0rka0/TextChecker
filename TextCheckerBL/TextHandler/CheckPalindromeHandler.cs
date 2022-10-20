@@ -6,7 +6,7 @@
     {
         public bool Check(string textInput)
         {
-            return textInput.SequenceEqual(textInput.Reverse());
+            return textInput.ToLower().SequenceEqual(textInput.ToLower().Reverse());
         }
     }
 }

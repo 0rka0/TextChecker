@@ -1670,6 +1670,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "TextChecker.BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/TextChecker.BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextChecker.BusinessLogic.dll": {}
+        }
       }
     }
   },
@@ -5933,11 +5943,17 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "TextChecker.BusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../TextCheckerBL/TextChecker.BusinessLogic.csproj",
+      "msbuildProject": "../TextCheckerBL/TextChecker.BusinessLogic.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.NET.Test.Sdk >= 16.9.4",
+      "TextChecker.BusinessLogic >= 1.0.0",
       "coverlet.collector >= 3.0.2",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -5969,7 +5985,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj": {
+              "projectPath": "D:\\Applications\\JaroschHaas\\TextChecker\\TextCheckerBL\\TextChecker.BusinessLogic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
