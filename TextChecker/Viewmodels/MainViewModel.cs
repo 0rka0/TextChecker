@@ -29,10 +29,10 @@
             }
             set
             {
-                if (TextInput != value)
+                if (resultOutput != value)
                 {
                     resultOutput = value;
-                    OnPropertyChanged(nameof(TextInput));
+                    OnPropertyChanged();
                 }
             }
         }

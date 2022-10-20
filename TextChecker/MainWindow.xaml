@@ -24,13 +24,13 @@
         <Grid Grid.Row="1">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="1*" />
-                <ColumnDefinition Width="4*" />
-                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="2*" />
             </Grid.ColumnDefinitions>
 
             <Label Grid.Column="0" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Center">Text einfügen:</Label>
             <TextBox Grid.Column="1" Margin="8" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Text="{Binding TextInput, UpdateSourceTrigger=PropertyChanged}"></TextBox>
-            <Label Grid.Column="2" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Center" Content="{Binding ResultOutput}"></Label>
+            <Label Grid.Column="2" FontSize="14" VerticalAlignment="Center" HorizontalAlignment="Center" Content="{Binding ResultOutput}"></Label>
         </Grid>
 
         <Grid Grid.Row="2">
